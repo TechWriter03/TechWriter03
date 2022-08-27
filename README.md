@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechWriter03.
-- 👀 I’m interested in Web Development & Data Analytics.
-- 🌱 I’m currently learning OOPs With JAVA.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning OOPs With JAVA,Python,C,HTML.
 - 💞️ I’m looking to collaborate on real world projects.
 - 📫 You can reach me on instagram @santhoshsmart601.
 
