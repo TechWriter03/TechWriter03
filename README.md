@@ -15,12 +15,13 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <hr></hr>
 
-![profile view count](https://komarev.com/ghpvc/?username=TechWriter03&style=for-the-badge)
 <p align="center">
 <br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br>
 </p>
+
+![profile view count](https://komarev.com/ghpvc/?username=TechWriter03&style=for-the-badge)
 
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWriter03&show_icons=true&theme=dark)
 
