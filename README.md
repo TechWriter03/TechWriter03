@@ -2,13 +2,13 @@
 <img src="My Name.gif" width="50%">
 </div>
 
-## Languages Known
+### Languages Known
 ![](https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-0047AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <hr></hr>
 
-## Interested In Learning
+### Interested In Learning
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
