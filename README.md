@@ -1,4 +1,4 @@
-![](https://github.com/TechWriter03/TechWriter03/blob/main/My%20Name.gif)
+# I'm Santhosh
 
 <!---
 TechWriter03/TechWriter03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
