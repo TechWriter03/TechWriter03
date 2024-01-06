@@ -23,6 +23,8 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=TechWriter03&style=for-the-badge)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TechWriter03&theme=git-dark)](https://git.io/streak-stats)
+
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWriter03&show_icons=true&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWriter03&theme=tokyonight)](https://github.com/anuraghazara/github-readme-stats)
