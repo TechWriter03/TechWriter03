@@ -29,7 +29,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWriter03&theme=tokyonight)](https://github.com/anuraghazara/github-readme-stats)
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWriter03&layout=pie&langs_count=10&theme=dracula)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWriter03&layout=pie&langs_count=10&theme=dark)
 
 <!---
 TechWriter03/TechWriter03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
